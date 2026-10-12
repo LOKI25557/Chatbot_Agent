@@ -1,0 +1,20 @@
+# Environment and Virtualenv
+.env
+.venv/
+
+# Python cache and bytecode
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.tmp
+
+# Testing and IDE artifacts
+.pytest_cache/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+**/.streamlit/secrets.toml
+
+# Agent runtime memory (preserve user data locally without committing)
+Travel_Agent/data/memory.json
+**/data/memory.json
