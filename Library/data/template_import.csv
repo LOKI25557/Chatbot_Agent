@@ -1,0 +1,2 @@
+title,author,isbn,category,shelf_location,total_copies,available_copies,publisher,publication_year,description
+Example Book Title,Author Name,9780000000000,General,"Floor 1, Shelf A-10",1,1,Publisher Name,2024,Sample description of the book.
